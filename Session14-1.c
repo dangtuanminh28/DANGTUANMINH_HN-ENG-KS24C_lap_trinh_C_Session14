@@ -3,7 +3,7 @@
 int main() {
 	// Khai bao chuoi
     char word[100]; 
-    // Yêu cau nguoi dung nhap chuoi
+    // Yeu cau nguoi dung nhap chuoi
     printf("Nhap vao mot chuoi bat ky: ");
     gets(word);
     int leghth = strlen(word);
